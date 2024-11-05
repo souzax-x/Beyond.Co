@@ -1,0 +1,23 @@
+BeyondBot - Guia de Viagens
+
+A ideia para o BeyondBot surgiu a partir de experiências pessoais minhas e da minha noiva. Nós adoramos viajar de carro pelos arredores, explorando destinos próximos. Contudo, em algumas dessas viagens, percebemos que deixamos de aproveitar oportunidades interessantes devido à falta de informações sobre as atrações e atividades locais. Essa constatação me motivou a criar um chatbot que ajude outros viajantes a evitar o mesmo problema.
+
+O objetivo do chatbot é facilitar a escolha de destinos e atividades, auxiliando o usuário a encontrar lugares que combinem com seu perfil e interesses. Com base nas informações fornecidas pelo usuário, o BeyondBot sugere destinos e atividades que atendem às suas preferências, proporcionando uma experiência de viagem mais completa e personalizada. Como estudante do 3º período de Análise e Desenvolvimento de Sistemas, essa tem sido uma ótima oportunidade para aplicar o que estou aprendendo, mesmo sem um domínio total da tecnologia.
+
+**Funcionalidades**
+
+# Interação com o Usuário
+
+- Início da Conversa: O usuário inicia a interação enviando uma mensagem, e o BeyondBot responde rapidamente, fazendo perguntas sobre seus interesses e preferências de viagem.
+
+- Uso da API do ChatGPT: Para proporcionar uma conversação fluida e natural, o BeyondBot utiliza a API do ChatGPT. Isso permite que o chatbot compreenda melhor as perguntas dos usuários e forneça respostas mais relevantes e personalizadas.
+
+# Sugestões Personalizadas
+
+- Com base nas respostas do usuário, o chatbot sugere destinos e atividades que se alinham com seu perfil, tornando a experiência de viagem mais ajustada às suas expectativas.
+
+# Gerenciamento de Erros
+
+- Identificação de Problemas: Caso algo não funcione como esperado, o BeyondBot registra os erros, o que é essencial para identificar pontos de melhoria e garantir um funcionamento mais eficiente.
+
+- Logs de Interação: O chatbot armazena logs de todas as interações, facilitando a análise de dados e a identificação de áreas onde a experiência do usuário pode ser aprimorada.
